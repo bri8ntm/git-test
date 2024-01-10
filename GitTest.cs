@@ -8,5 +8,9 @@ namespace ggLeap
 {
     class GitTest
     {
+        static void Main()
+        {
+            Console.WriteLine("Git Testing");
+        }
     }
 }
