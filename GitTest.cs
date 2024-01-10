@@ -12,6 +12,7 @@ namespace ggLeap
         {
             Console.WriteLine("Git Testing");
             Console.WriteLine("Git Testing 1");
+            Console.WriteLine("Git Testing 2");
         }
     }
 }
