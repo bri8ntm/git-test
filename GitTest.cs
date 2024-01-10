@@ -11,6 +11,7 @@ namespace ggLeap
         static void Main()
         {
             Console.WriteLine("Git Testing");
+            Console.WriteLine("Git Testing 1");
         }
     }
 }
